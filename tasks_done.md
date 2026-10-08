@@ -87,3 +87,11 @@
   - Zero TypeScript errors (`tsc --noEmit`).
   - Completed: 2026-10-08T20:48:00+07:00
 
+- [x] **Task 13: Git Repository Initialization & GitHub Publish**
+  - Initialized Git repository on `main` branch.
+  - Created root-commit with full corporate landing page, product registries, trust center, contact API, and README.
+  - Created and published GitHub public repository: `https://github.com/haydiru/mrwealthai-com`.
+  - Prepared repository for direct 1-click import and deployment to Vercel with custom domain `mrwealthai.com`.
+  - Completed: 2026-10-08T20:48:50+07:00
+
+
